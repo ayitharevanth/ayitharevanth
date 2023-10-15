@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayitharevanth" alt="ayitharevanth" /></a> </p>
 
-- 🔭 I’m currently working on **DeepLearning**
+- 🔭 I’m currently working on **DeepLearning Project**
 
 - 🌱 I’m currently learning **Deeplearning**
 
