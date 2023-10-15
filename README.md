@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLSM... )](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Ayitha Revanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
