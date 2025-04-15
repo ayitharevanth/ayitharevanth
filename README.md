@@ -10,11 +10,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayitharevanth" alt="ayitharevanth" /></a> </p>
 
-- 🔭 I’m currently working on **DeepLearning Project**
+- 🔭 I’m currently working on ** Web development**
 
-- 🌱 I’m currently learning **Deeplearning**
+- 🌱 I’m currently learning **Data Science and Full Stack Development**
 
-- 📫 How to reach me **revanthayitha@gmail.com**
+- 👯 I’m looking to collaborate on **Web Development projects**
+
+- 🤝 I’m looking for help with **understanding of system design**
+
+- 👨‍💻 All of my projects are available at [under work](under work)
+
+- 💬 Ask me about **Web Development and AI**
+
+- 📄 Know about my experiences [still making it](still making it)
+
+- ⚡ Fun fact **I am great Leader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
