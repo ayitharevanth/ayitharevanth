@@ -18,11 +18,7 @@
 
 - 🤝 I’m looking for help with **understanding of system design**
 
-- 👨‍💻 All of my projects are available at [under work](under work)
-
-- 💬 Ask me about **Web Development and AI**
-
-- 📄 Know about my experiences [still making it](still making it)
+- 💬 Ask me about Web Development and AI Tools
 
 - ⚡ Fun fact **I am great Leader**
 
