@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayitharevanth" alt="ayitharevanth" /></a> </p>
 
-- 🔭 I’m currently working on ** Web development**
+- 🔭 I’m currently working on  leveling up
 
 - 🌱 I’m currently learning **Data Science and Full Stack Development**
 
