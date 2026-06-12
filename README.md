@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on  leveling up
 
-- 🌱 I’m currently learning **Data Science and Full Stack Development**
+- 🌱 I’m currently learning **Gen AI and Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
